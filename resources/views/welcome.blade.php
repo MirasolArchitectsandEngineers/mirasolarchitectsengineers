@@ -123,7 +123,8 @@
                 </div>
             </div>
         </div> --}} -->
-				@include('landing.hero')
-				@include('landing.footer')
+				@include('landing.frontpage.home')
+				{{-- @include('landing.hero')
+				@include('landing.footer') --}}
     </body>
 </html>
