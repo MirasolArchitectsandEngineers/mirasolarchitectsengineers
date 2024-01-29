@@ -131,7 +131,7 @@
             <div class="col-lg-6 mb-5 mb-lg-10">
               <figure class="dotted-bg gsap-reveal-img ">
                 {{-- <img src="{{ asset('front/images/310432111_186902260508095_4822510034040461973_n.jpg') }}" alt="Image" class="img-fluid"> --}}
-                <video autoplay muted loop class="border-2 rounded">
+                <video autoplay muted loop class="md:auto border-2 rounded">
                     <source src="{{ asset('videos/mae.mp4') }}" type="video/mp4">
                 </video>
               </figure>
