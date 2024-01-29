@@ -74,7 +74,7 @@
             <div  class="col-md-5 text-right text-lg-left">
               <ul class="site-nav-ul js-clone-nav text-left d-none d-lg-inline-block">
 
-                <li><a href="testimonial.html" class="nav-link">Testimonials</a></li>
+                <li><a href="testimonial.html" class="nav-link">Partnership</a></li>
                 <li><a href="works.html" class="nav-link">Our Works</a></li>
                 <li><a href="contact.html" class="nav-link">Contact Us</a></li>
 
@@ -130,15 +130,33 @@
           <div class="row mt-5 justify-content-between">
             <div class="col-lg-6 mb-5 mb-lg-10">
               <figure class="dotted-bg gsap-reveal-img ">
-                <img src="{{ asset('front/images/310432111_186902260508095_4822510034040461973_n.jpg') }}" alt="Image" class="img-fluid">
+                {{-- <img src="{{ asset('front/images/310432111_186902260508095_4822510034040461973_n.jpg') }}" alt="Image" class="img-fluid"> --}}
+                <video autoplay muted loop class="border-2 rounded">
+                    <source src="{{ asset('videos/mae.mp4') }}" type="video/mp4">
+                </video>
               </figure>
             </div>
 
             <div class="col-lg-5 pr-lg-4">
-                  <br><br>  <br>
+
               <h3 class="mb-4 heading-h3"><span class="gsap-reveal">"Work until you no need to introduce yourself"</span></h3>
-              <p class="lead gsap-reveal">text.......... text.......... text.......... text.......... text.......... text.......... text.......... text.......... text.......... text.......... text.......... text.......... </p>
-              <p class="mb-4 gsap-reveal">text.......... text.......... text.......... text.......... text.......... text.......... text.......... text.......... text.......... text.......... text.......... text.......... text.......... text.......... text.......... text.......... text.......... </p>
+
+              <p class="font-serif lead gsap-reveal bg-gray-900">Mirasol Architects & Engineers “Building Design Services”,
+                is a Company that specialize in Project & Construction
+                Services. (DTI Reg. 2968629) <br><br>
+                Formerly A.E.M. Plans & Design, it was organized to
+                cater and help supporting client on Space Planning,
+                Designing, Costing, Project Development & Project
+                Management / Supervision assistance.<br><br>
+                Now, M.A.E is a team of license and Experience
+                Professional in each individual field related to project
+                and construction.
+                And the company main objective is to help client
+                organize & lesser their burden through the Team and
+                Collaboration with specific scope and other project
+                related services in a Professional way .
+                </p>
+              {{-- <p class="mb-4 gsap-reveal">text.......... text.......... text.......... text.......... text.......... text.......... text.......... text.......... text.......... text.......... text.......... text.......... text.......... text.......... text.......... text.......... text.......... </p> --}}
 
             </div>
           </div>
@@ -253,7 +271,7 @@
       <div class="unslate_co--section" id="testimonial-section">
         <div class="container">
           <div class="section-heading-wrap text-center mb-5">
-            <h2 class="heading-h2 text-center divider"><span class="gsap-reveal">Client Testemonials</span></h2>
+            <h2 class="heading-h2 text-center divider"><span class="gsap-reveal">Client Feedback</span></h2>
             <span class="gsap-reveal"><img src="{{ asset('front/images/divider.png') }}" alt="divider" width="76"></span>
           </div>
         </div>
