@@ -282,7 +282,7 @@
               <div class="testimonial-inner-bg">
                 <span class="quote">&ldquo;</span>
                 <blockquote>
-                  Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+                    I am a residential owner who had the privilege of working with Mirasol Architects & Engineers for the design of my beautiful and artistic residential project. I am extremely pleased with the quality services provided by their Managing Director, Arch. Aaron Enova Mirasol, and his project team.
                 </blockquote>
               </div>
 
@@ -299,7 +299,7 @@
               <div class="testimonial-inner-bg">
                 <span class="quote">&ldquo;</span>
                 <blockquote>
-                  Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+                    From the start, Arch. Aaron Enova Mirasol exhibited a high level of professionalism and expertise. He took the time to understand my vision and preferences for the project, and his team translated them into a remarkable design. His attention to detail and commitment to delivering exceptional results were evident throughout the entire process.
                 </blockquote>
               </div>
 
@@ -316,7 +316,7 @@
               <div class="testimonial-inner-bg">
                 <span class="quote">&ldquo;</span>
                 <blockquote>
-                  Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+                    Arch. Aaron Enova Mirasol and his project team were always available to address any concerns or questions I had. Their communication skills were excellent, and they kept me informed about the progress of the project at every stage. Their project management abilities ensured that the project ran smoothly and efficiently.
                 </blockquote>
               </div>
 
@@ -328,6 +328,75 @@
 
             </div>
           </div>
+          <div>
+            <div class="testimonial-v1">
+              <div class="testimonial-inner-bg">
+                <span class="quote">&ldquo;</span>
+                <blockquote>
+                    The quality of the services provided by Mirasol Architects & Engineers was outstanding. Arch. Aaron Enova Mirasol and his team demonstrated a deep understanding of architectural principles and design concepts. They utilized high-quality materials and incorporated innovative ideas into the project, resulting in a residential space that exceeded my expectations.
+                </blockquote>
+              </div>
+
+              <div class="testimonial-author-info">
+                <img style="filter: blur(4px)" src="{{ asset('front/images/person_man_2.jpg') }}" alt="Image">
+                <h3>Ryan Mullins</h3>
+                <span class="d-block position">Product Designer @Shopify</span>
+              </div>
+
+            </div>
+          </div>
+          <div>
+            <div class="testimonial-v1">
+              <div class="testimonial-inner-bg">
+                <span class="quote">&ldquo;</span>
+                <blockquote>
+                    I was particularly impressed by Arch. Aaron Enova Mirasol’s creativity and ability to think outside the box. He and his team went above and beyond to create a unique and artistic design that truly reflected my personal style. Their attention to detail and commitment to excellence were evident in every aspect of the project.
+                </blockquote>
+              </div>
+
+              <div class="testimonial-author-info">
+                <img style="filter: blur(4px)" src="{{ asset('front/images/person_man_1.jpg') }}" alt="Image">
+                <h3>Eric Ingram</h3>
+                <span class="d-block position">Product Designer @facebook</span>
+              </div>
+
+            </div>
+          </div>
+          <div>
+            <div class="testimonial-v1">
+              <div class="testimonial-inner-bg">
+                <span class="quote">&ldquo;</span>
+                <blockquote>
+                    I highly recommend Mirasol Architects & Engineers for anyone in need of building design services. Arch. Aaron Enova Mirasol’s leadership and the expertise of his project team are unparalleled. Their dedication to delivering high-quality results and their passion for their work are evident in the beautiful and artistic residential project they completed for me. I am grateful for their exceptional services and the incredible transformation they brought to my home
+                </blockquote>
+              </div>
+
+              <div class="testimonial-author-info">
+                <img style="filter: blur(4px)" src="{{ asset('front/images/person_woman_1.jpg') }}" alt="Image">
+                <h3>Erica Miller</h3>
+                <span class="d-block position">Product Designer @Twitter</span>
+              </div>
+
+            </div>
+          </div>
+          <div>
+            <div class="testimonial-v1">
+              <div class="testimonial-inner-bg">
+                <span class="quote">&ldquo;</span>
+                <blockquote>
+                    I am absolutely amazed by the resilience and dedication of the Mirasol Architects & Engineers project team. Despite facing stressful situations, unexpected delays, and even personnel changes, they remained committed to delivering our house project.
+                </blockquote>
+              </div>
+
+              <div class="testimonial-author-info">
+                <img style="filter: blur(4px)" src="{{ asset('front/images/person_man_1.jpg') }}" alt="Image">
+                <h3>Eric Ingram</h3>
+                <span class="d-block position">Product Designer @facebook</span>
+              </div>
+
+            </div>
+          </div>
+
         </div>
 
       </div>
