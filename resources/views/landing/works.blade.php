@@ -114,8 +114,11 @@
         <div class="col-12">
 
 
-          <div class="relative"><div class="loader-this-wrap"><div class="loader-this"></div></div> </div>
-          <div id="this-single-holder"></div>
+            <div class="relative"><div class="loader-this-wrap">
+                <div class="loader-this"></div>
+            </div>
+        </div>
+        <div id="this-single-holder" class="flex justify-between"></div>
 
           <div class="this-wrapper">
 
@@ -149,7 +152,7 @@
 
                       </div>
                     </div>
-                    <img src="{{ asset('front/images/313020122_188432873688367_8565865133771706285_n.jpg') }}" class="lazyload  img-fluid" alt="Images" />
+                    {{-- <img src="{{ asset('front/images/313020122_188432873688367_8565865133771706285_n.jpg') }}" class="lazyload  img-fluid" alt="Images" /> --}}
                   </a>
               </div>
           <div class="item web packaging col-sm-6 col-md-6 col-lg-4 isotope-mb-2">
@@ -162,11 +165,11 @@
 
                       </div>
                     </div>
-                    <img src="{{ asset('front/images/382230286_331340362730950_4183704594503918235_n.jpg') }}" class="lazyload  img-fluid" alt="Images" />
+                    {{-- <img src="{{ asset('front/images/382230286_331340362730950_4183704594503918235_n.jpg') }}" class="lazyload  img-fluid" alt="Images" /> --}}
                   </a>
 
               </div>
-         <div class="item branding packaging col-sm-6 col-md-6 col-lg-4 isotope-mb-2">
+            <div class="item branding packaging col-sm-6 col-md-6 col-lg-4 isotope-mb-2">
                 <a href="{{ asset('front/images/363359676_301862389012081_1941683697978561029_n.jpg') }}" class="this-item item-portrait isotope-item gsap-reveal-img " data-fancybox="gallery" data-caption="Modern Building">
                     <div class="overlay">
                       <span class="wrap-icon icon-photo2"></span>
@@ -175,10 +178,10 @@
 
                       </div>
                     </div>
-                    <img src="{{ asset('front/images/363359676_301862389012081_1941683697978561029_n.jpg') }}" class="lazyload  img-fluid" alt="Images" />
+                    {{-- <img src="{{ asset('front/images/363359676_301862389012081_1941683697978561029_n.jpg') }}" class="lazyload  img-fluid" alt="Images" /> --}}
                   </a>
               </div>
-          <div class="item web packaging col-sm-6 col-md-6 col-lg-4 isotope-mb-2">
+            <div class="item web packaging col-sm-6 col-md-6 col-lg-4 isotope-mb-2">
 
                 <a href="{{ asset('front/images/312912065_188432883688366_8688871015789825250_n.jpg') }}" class="this-item isotope-item gsap-reveal-img" data-fancybox="gallery" data-caption="Watch">
                     <div class="overlay">
@@ -188,12 +191,12 @@
 
                       </div>
                     </div>
-                    <img src="{{ asset('front/images/312912065_188432883688366_8688871015789825250_n.jpg') }}" class="lazyload  img-fluid" alt="Images" />
+                    {{-- <img src="{{ asset('front/images/312912065_188432883688366_8688871015789825250_n.jpg') }}" class="lazyload  img-fluid" alt="Images" /> --}}
                   </a>
 
               </div>
 
-       <div class="item branding packaging col-sm-6 col-md-6 col-lg-4 isotope-mb-2">
+                <div class="item branding packaging col-sm-6 col-md-6 col-lg-4 isotope-mb-2">
                 <a href="{{ asset('front/images/310432111_186902260508095_4822510034040461973_n.jpg') }}" class="this-item item-portrait isotope-item gsap-reveal-img " data-fancybox="gallery" data-caption="Modern Building">
                     <div class="overlay">
                       <span class="wrap-icon icon-photo2"></span>
@@ -202,7 +205,99 @@
 
                       </div>
                     </div>
-                    <img src="{{ asset('front/images/310432111_186902260508095_4822510034040461973_n.jpg') }}" class="lazyload  img-fluid" alt="Images" />
+                    {{-- <img src="{{ asset('front/images/310432111_186902260508095_4822510034040461973_n.jpg') }}" class="lazyload  img-fluid" alt="Images" /> --}}
+                  </a>
+              </div>
+
+            </div>
+
+          </div>
+          <div class="this-wrapper">
+
+
+
+
+
+            <div id="posts" class="row gutter-isotope-item">
+
+
+          <div class="item web packaging col-sm-6 col-md-6 col-lg-4 isotope-mb-2">
+
+                <a href="{{ asset('front/images/311735634_186902230508098_8401930685156898117_n.jpg') }}" class="this-item isotope-item gsap-reveal-img" data-fancybox="gallery" data-caption="Watch">
+                    <div class="overlay">
+                      <span class="wrap-icon icon-photo2"></span>
+                      <div class="this-item-content">
+                        <h3>Residential</h3>
+
+                      </div>
+                    </div>
+                    <img src="{{ asset('front/images/311735634_186902230508098_8401930685156898117_n.jpg') }}" class="lazyload  img-fluid" alt="Images" />
+                  </a>
+
+              </div>
+                 <div class="item branding packaging col-sm-6 col-md-6 col-lg-4 isotope-mb-2">
+                <a href="{{ asset('front/images/313020122_188432873688367_8565865133771706285_n.jpg') }}" class="this-item item-portrait isotope-item gsap-reveal-img " data-fancybox="gallery" data-caption="Modern Building">
+                    <div class="overlay">
+                      <span class="wrap-icon icon-photo2"></span>
+                      <div class="this-item-content">
+                        <h3>Corporate / Office</h3>
+
+                      </div>
+                    </div>
+                    {{-- <img src="{{ asset('front/images/313020122_188432873688367_8565865133771706285_n.jpg') }}" class="lazyload  img-fluid" alt="Images" /> --}}
+                  </a>
+              </div>
+          <div class="item web packaging col-sm-6 col-md-6 col-lg-4 isotope-mb-2">
+
+                <a href="{{ asset('front/images/382230286_331340362730950_4183704594503918235_n.jpg') }}" class="this-item isotope-item gsap-reveal-img" data-fancybox="gallery" data-caption="Watch">
+                    <div class="overlay">
+                      <span class="wrap-icon icon-photo2"></span>
+                      <div class="this-item-content">
+                        <h3>Retail / Commercial</h3>
+
+                      </div>
+                    </div>
+                    {{-- <img src="{{ asset('front/images/382230286_331340362730950_4183704594503918235_n.jpg') }}" class="lazyload  img-fluid" alt="Images" /> --}}
+                  </a>
+
+              </div>
+            <div class="item branding packaging col-sm-6 col-md-6 col-lg-4 isotope-mb-2">
+                <a href="{{ asset('front/images/363359676_301862389012081_1941683697978561029_n.jpg') }}" class="this-item item-portrait isotope-item gsap-reveal-img " data-fancybox="gallery" data-caption="Modern Building">
+                    <div class="overlay">
+                      <span class="wrap-icon icon-photo2"></span>
+                      <div class="this-item-content">
+                        <h3>Property & Land Development</h3>
+
+                      </div>
+                    </div>
+                    {{-- <img src="{{ asset('front/images/363359676_301862389012081_1941683697978561029_n.jpg') }}" class="lazyload  img-fluid" alt="Images" /> --}}
+                  </a>
+              </div>
+            <div class="item web packaging col-sm-6 col-md-6 col-lg-4 isotope-mb-2">
+
+                <a href="{{ asset('front/images/312912065_188432883688366_8688871015789825250_n.jpg') }}" class="this-item isotope-item gsap-reveal-img" data-fancybox="gallery" data-caption="Watch">
+                    <div class="overlay">
+                      <span class="wrap-icon icon-photo2"></span>
+                      <div class="this-item-content">
+                        <h3>Project Management</h3>
+
+                      </div>
+                    </div>
+                    {{-- <img src="{{ asset('front/images/312912065_188432883688366_8688871015789825250_n.jpg') }}" class="lazyload  img-fluid" alt="Images" /> --}}
+                  </a>
+
+              </div>
+
+                <div class="item branding packaging col-sm-6 col-md-6 col-lg-4 isotope-mb-2">
+                <a href="{{ asset('front/images/310432111_186902260508095_4822510034040461973_n.jpg') }}" class="this-item item-portrait isotope-item gsap-reveal-img " data-fancybox="gallery" data-caption="Modern Building">
+                    <div class="overlay">
+                      <span class="wrap-icon icon-photo2"></span>
+                      <div class="this-item-content">
+                        <h3>Fabrication</h3>
+
+                      </div>
+                    </div>
+                    {{-- <img src="{{ asset('front/images/310432111_186902260508095_4822510034040461973_n.jpg') }}" class="lazyload  img-fluid" alt="Images" /> --}}
                   </a>
               </div>
 
@@ -212,6 +307,7 @@
 
 
         </div>
+
       </div>
 
       <div style="background:black;" class="unslate_co--section" id="contact-section">
