@@ -83,7 +83,8 @@
       </nav>
       <!-- END nav -->
 
-      <div class="cover-v1 jarallax" style="background-image: url('{{ asset('front/images/278049545_144464124751909_5915077704219102873_n.jpg') }}');" id="home-section">
+      {{-- <div class="cover-v1 jarallax" style="background-image: url('{{ asset('front/images/278049545_144464124751909_5915077704219102873_n.jpg') }}');" id="home-section"> --}}
+      <div class="cover-v1 jarallax" style="background-image: url('{{ asset('front/images/pambuhan2.jpg') }}');" id="home-section">
         <div class="container">
           <div class="row align-items-center">
 
@@ -117,15 +118,16 @@
           <div class="row mt-5 justify-content-between">
             <div class="col-lg-6 mb-5 mb-lg-10">
               <figure class="dotted-bg gsap-reveal-img ">
-                <img src="{{ asset('front/images/310432111_186902260508095_4822510034040461973_n.jpg') }}" alt="Image" class="img-fluid">
+                <img src="{{ asset('front/images/242237323_106140008490225_1268871086896176952_n.jpg') }}" alt="Image" class="img-fluid">
               </figure>
             </div>
 
             <div class="col-lg-5 pr-lg-4">
-                  <br><br>  <br>
-              <h3 class="mb-4 heading-h3"><span class="gsap-reveal">We can make it together</span></h3>
-              <p class="lead gsap-reveal">text.......... text.......... text.......... text.......... text.......... text.......... text.......... text.......... text.......... text.......... text.......... text.......... </p>
-              <p class="mb-4 gsap-reveal">text.......... text.......... text.......... text.......... text.......... text.......... text.......... text.......... text.......... text.......... text.......... text.......... text.......... text.......... text.......... text.......... text.......... </p>
+                  <br>  <br>
+              <h3 class="mb-4 heading-h3"><span class="gsap-reveal">Misson:</span></h3>
+              <p class="lead gsap-reveal">To be the company who excel in designing and project management.</p>
+              <h3 class="mb-4 heading-h3"><span class="gsap-reveal">Vision:</span></h3>
+              <p class="lead gsap-reveal">To be the company who excel in designing and project management.</p>
 
             </div>
           </div>
@@ -152,11 +154,11 @@
                 <img src="{{ asset('front/images/companyLogo.png') }}" alt="Image" class="img-fluid">
                 <span class="number-wrap">
 <br>
-                  <span class="number number-counter" data-number="90">0</span>
+                  <span class="number number-counter" data-number="6">0</span>
 
 
                 </span>
-                <span class="counter-label">Square Feat</span>
+                <span class="counter-label">Residential</span>
 
               </div>
             </div>
@@ -166,10 +168,10 @@
                 <img src="{{ asset('front/images/companyLogo.png') }}" alt="Image" class="img-fluid">
                 <span class="number-wrap">
 <br>
-                  <span class="number number-counter" data-number="99">0</span>
+                  <span class="number number-counter" data-number="12">0</span>
 
                 </span>
-                <span class="counter-label">Bed Rooms</span>
+                <span class="counter-label">Commercial Building</span>
               </div>
             </div>
             <div class="col-6 col-sm-6 mb-5 mb-lg-0 col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="200">
@@ -178,10 +180,10 @@
                 <img src="{{ asset('front/images/companyLogo.png') }}" alt="Image" class="img-fluid">
                 <span class="number-wrap">
 <br>
-                  <span class="number number-counter" data-number="95">0</span>
+                  <span class="number number-counter" data-number="18">0</span>
 
                 </span>
-                <span class="counter-label">Bathroom</span>
+                <span class="counter-label">Offices</span>
               </div>
             </div>
             <div class="col-6 col-sm-6 mb-5 mb-lg-0 col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="300">
@@ -190,10 +192,10 @@
                 <img src="{{ asset('front/images/companyLogo.png') }}" alt="Image" class="img-fluid">
                 <span class="number-wrap">
 <br>
-                  <span class="number number-counter" data-number="100">0</span>
+                  <span class="number number-counter" data-number="25">0</span>
 
                 </span>
-                <span class="counter-label">Car Parking</span>
+                <span class="counter-label">On Going</span>
               </div>
             </div>
           </div>
