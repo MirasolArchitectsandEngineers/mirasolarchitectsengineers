@@ -13,9 +13,36 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+/*
+Route for linking page
+* */
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/about', function() {
+    return view('landing.about');
+});
+
+Route::get('/services', function() {
+    return view('landing.services');
+});
+
+Route::get('/partnership', function() {
+    return view('landing.partnership');
+});
+
+Route::get('/ourworks', function() {
+    return view('landing.works');
+});
+
+Route::get('/contactus', function() {
+    return view('landing.contact');
+});
+
+/**
+ * auth
+ */
 
 Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard', function () {
     return view('dashboard');

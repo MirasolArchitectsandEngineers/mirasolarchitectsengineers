@@ -60,23 +60,23 @@
             <div   class="col-md-5 text-right">
               <ul  class="site-nav-ul js-clone-nav text-left d-none d-lg-inline-block">
                 <li class="has-children">
-                  <a  href="home.html" class="nav-link">Home</a>
+                  <a  id="home" href="" class="nav-link">Home</a>
 
                 </li>
 
-                <li><a href="about.html" class="nav-link">About</a></li>
-                <li><a href="services.html" class="nav-link">Services</a></li>
+                <li><a href="/about" id="about" class="nav-link">About</a></li>
+                <li><a href="/services" class="nav-link">Services</a></li>
               </ul>
             </div>
             <div class="site-logo pos-absolute">
-              <a href="home.html" class="unslate_co--site-logo"> <img src="{{ asset('front/images/companyLogo.png') }}" class="lazyload  img-fluid" alt="Images" /></a>
+              <a href="/" class="unslate_co--site-logo"> <img src="{{ asset('front/images/companyLogo.png') }}" class="lazyload  img-fluid" alt="Images" /></a>
             </div>
             <div  class="col-md-5 text-right text-lg-left">
               <ul class="site-nav-ul js-clone-nav text-left d-none d-lg-inline-block">
 
-                <li><a href="testimonial.html" class="nav-link">Partnership</a></li>
-                <li><a href="works.html" class="nav-link">Our Works</a></li>
-                <li><a href="contact.html" class="nav-link">Contact Us</a></li>
+                <li><a href="/partnership" class="nav-link">Partnership</a></li>
+                <li><a href="/ourworks" class="nav-link">Our Works</a></li>
+                <li><a href="/contactus" class="nav-link">Contact Us</a></li>
 
               </ul>
 
@@ -451,7 +451,7 @@
               <div class="contact-info-v1">
                 <div class="gsap-reveal d-block">
                   <span class="d-block contact-info-label">Email</span>
-                  <a href="#" class="contact-info-val">info.mae@gmail.com</a>
+                  <a href="#" class="contact-info-val">info.mae22@gmail.com</a>
                 </div>
                 <div class="gsap-reveal d-block">
                   <span class="d-block contact-info-label">Phone</span>
@@ -459,7 +459,8 @@
                 </div>
                 <div class="gsap-reveal d-block">
                   <span class="d-block contact-info-label">Address</span>
-                  <address class="contact-info-val">Lot 1. Magnolia St.Greenview <br> Daet Camarines Norte</address>
+                  <address class="contact-info-val">Head Office:<br> Daet Camarines Norte</address>
+                  <address class="contact-info-val">Warehouse Office: <br> Lot 1&2, LakeTown Village, C6 - Taguig City, Metro Manila</address>
                 </div>
               </div>
             </div>
@@ -469,12 +470,41 @@
       </div>
       </div> <!-- END .unslate_co-site-inner -->
 
+      {{-- <footer class="unslate_co--footer unslate_co--section">
+        <div class="container">
+          <div class="row justify-content-center">
+            <div class="col-md-7">
+
+              <div class="footer-site-logo"> <a href="#"><img src="{{ asset('front/images/companyLogo.png') }}" class="lazyload  img-fluid" alt="Images" /></a></div>
+
+              <ul class="footer-site-social">
+                <li><a href="https://www.facebook.com/Mirasol.Architecs.Engineers">Facebook</a></li>
+                <li><a href="#">Twitter</a></li>
+                <li><a href="#">Instagram</a></li>
+
+              </ul>
+
+              <p class="site-copyright">
+
+
+                 &copy;
+                <script>
+                  document.write(new Date().getFullYear());
+                </script> Mirasol Architects and Engineers, Inc. All rights reserved.
+
+
+              </p>
+
+            </div>
+          </div>
+        </div>
+      </footer> --}}
       <footer class="unslate_co--footer unslate_co--section">
         <div class="container">
           <div class="row justify-content-center">
             <div class="col-md-7">
 
-              <div class="footer-site-logo"><a href="#"><img src="{{ asset('front/images/companyLogo.png') }}" class="lazyload  img-fluid" alt="Images" /></a></div>
+              <div class="footer-site-logo"><a href="#" class="flex justify-center"><img src="{{ asset('front/images/companyLogo.png') }}" class="lazyload  img-fluid" alt="Images" /></a></div>
 
               <ul class="footer-site-social">
                 <li><a href="https://www.facebook.com/Mirasol.Architecs.Engineers">Facebook</a></li>
