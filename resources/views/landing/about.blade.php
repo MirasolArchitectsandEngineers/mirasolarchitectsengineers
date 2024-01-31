@@ -66,7 +66,7 @@
             <div  class="col-md-5 text-right text-lg-left">
               <ul class="site-nav-ul js-clone-nav text-left d-none d-lg-inline-block">
 
-                <li><a href="/testimonials" class="nav-link">Partnership</a></li>
+                <li><a href="/partnership" class="nav-link">Partnership</a></li>
                 <li><a href="/ourworks" class="nav-link">Our Works</a></li>
                 <li><a href="/contact" class="nav-link">Contact Us</a></li>
 
