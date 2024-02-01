@@ -181,7 +181,7 @@
 
           <div class="item web packaging col-sm-6 col-md-6 col-lg-4 isotope-mb-2">
 
-                <a href="{{ asset('front/images/residential.jpg') }}" class="this-item isotope-item gsap-reveal-img" data-fancybox="gallery" data-caption="Residential">
+                <a href="{{ asset('front/images/residential.jpg') }}" class="this-item isotope-item gsap-reveal-img" data-fancybox data-caption="Residential">
                     <div class="overlay">
                       <span class="wrap-icon icon-photo2"></span>
                       <div class="this-item-content">
@@ -194,7 +194,7 @@
 
               </div>
                  <div class="item branding packaging col-sm-6 col-md-6 col-lg-4 isotope-mb-2">
-                <a href="{{ asset('front/images/313020122_188432873688367_8565865133771706285_n.jpg') }}" class="this-item item-portrait isotope-item gsap-reveal-img " data-fancybox="gallery" data-caption="Corporate">
+                <a href="{{ asset('front/images/313020122_188432873688367_8565865133771706285_n.jpg') }}" class="this-item item-portrait isotope-item gsap-reveal-img " data-fancybox data-caption="Corporate">
                     <div class="overlay">
                       <span class="wrap-icon icon-photo2"></span>
                       <div class="this-item-content">
@@ -207,7 +207,7 @@
               </div>
           <div class="item web packaging col-sm-6 col-md-6 col-lg-4 isotope-mb-2">
 
-                <a href="{{ asset('front/images/382230286_331340362730950_4183704594503918235_n.jpg') }}" class="this-item isotope-item gsap-reveal-img" data-fancybox="gallery" data-caption="Retail">
+                <a href="{{ asset('front/images/382230286_331340362730950_4183704594503918235_n.jpg') }}" class="this-item isotope-item gsap-reveal-img" data-fancybox data-caption="Retail">
                     <div class="overlay">
                       <span class="wrap-icon icon-photo2"></span>
                       <div class="this-item-content">
@@ -220,7 +220,7 @@
 
               </div>
          <div class="item branding packaging col-sm-6 col-md-6 col-lg-4 isotope-mb-2">
-                <a href="{{ asset('front/images/Pambuhan.jpg') }}" class="this-item item-portrait isotope-item gsap-reveal-img " data-fancybox="gallery" data-caption="Property & Land Development">
+                <a href="{{ asset('front/images/Pambuhan.jpg') }}" class="this-item item-portrait isotope-item gsap-reveal-img " data-fancybox data-caption="Property & Land Development">
                     <div class="overlay">
                       <span class="wrap-icon icon-photo2"></span>
                       <div class="this-item-content">
@@ -233,7 +233,7 @@
               </div>
           <div class="item web packaging col-sm-6 col-md-6 col-lg-4 isotope-mb-2">
 
-                <a href="{{ asset('front/images/312912065_188432883688366_8688871015789825250_n.jpg') }}" class="this-item isotope-item gsap-reveal-img" data-fancybox="gallery" data-caption="Project Management">
+                <a href="{{ asset('front/images/312912065_188432883688366_8688871015789825250_n.jpg') }}" class="this-item isotope-item gsap-reveal-img" data-fancybox data-caption="Project Management">
                     <div class="overlay">
                       <span class="wrap-icon icon-photo2"></span>
                       <div class="this-item-content">
