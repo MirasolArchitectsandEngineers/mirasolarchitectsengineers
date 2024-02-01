@@ -98,16 +98,15 @@
           </div>
         </div>
 
-
-      <a href="#portfolio-section" class="mouse-wrap smoothscroll">
-          <span class="mouse">
-            <span class="scroll"></span>
-          </span>
-          <span class="mouse-label">Scroll</span>
+        <a href="#portfolio-section" class="mouse-wrap smoothscroll">
+            <span class="mouse">
+                <span class="scroll"></span>
+            </span>
+            <span class="mouse-label">Scroll</span>
         </a>
 
-      </div>
-      <!-- END .cover-v1 -->
+    </div>
+    <!-- END .cover-v1 -->
 
 
 
@@ -115,26 +114,26 @@
 
 
 
-      <div style="background:black;" class="unslate_co--section" id="contact-section">
+    <div style="background:black;" class="unslate_co--section" id="contact-section">
         <div class="container">
-          <div class="section-heading-wrap text-center mb-5">
-            <h2  class="heading-h2 text-center divider"><span style="color:white; border-bottom: white solid 2px;" class="gsap-reveal">Get In Touch</span></h2>
+            <div class="section-heading-wrap text-center mb-5">
+                <h2  class="heading-h2 text-center divider"><span style="color:white; border-bottom: white solid 2px;" class="gsap-reveal">Get In Touch</span></h2>
 
-          </div>
+            </div>
 
 
-          <div class="row justify-content-between">
+            <div class="row justify-content-between">
 
-            <div class="col-md-6">
-              <form method="post" class="form-outline-style-v1" id="contactForm">
-                <div class="form-group row mb-0">
+                <div class="col-md-6">
+                    <form method="post" class="form-outline-style-v1" id="contactForm">
+                        <div class="form-group row mb-0">
 
-                  <div class="col-lg-6 form-group gsap-reveal">
-                    <label for="name">Name</label>
+                            <div class="col-lg-6 form-group gsap-reveal">
+                                <label for="name">Name</label>
                     <input name="name" type="text" class="form-control" id="name">
                   </div>
                   <div class="col-lg-6 form-group gsap-reveal">
-                    <label for="email">Email</label>
+                      <label for="email">Email</label>
                     <input name="email" type="email" class="form-control" id="email">
                   </div>
                   <div class="col-lg-12 form-group gsap-reveal">
@@ -144,12 +143,12 @@
                 </div>
                 <div class="form-group row gsap-reveal">
                     <div class="col-md-12 d-flex align-items-center">
-                      <input type="submit" class="btn btn-outline-pill btn-custom-light mr-3" value="Send Message">
-                      <span class="submitting"></span>
+                        <input type="submit" class="btn btn-outline-pill btn-custom-light mr-3" value="Send Message">
+                        <span class="submitting"></span>
                     </div>
-                  </div>
-              </form>
-              <div id="form-message-warning" class="mt-4"></div>
+                </div>
+            </form>
+            <div id="form-message-warning" class="mt-4"></div>
               <div id="form-message-success">
                 Your message was sent, thank you!
               </div>
@@ -161,12 +160,12 @@
                   <div class="gsap-reveal d-block">
                     <span class="d-block contact-info-label">Email</span>
                     <a href="#" class="contact-info-val">info.mae22@gmail.com</a>
-                  </div>
-                  <div class="gsap-reveal d-block">
+                </div>
+                <div class="gsap-reveal d-block">
                     <span class="d-block contact-info-label">Phone</span>
                     <a href="#" class="contact-info-val">09157769382 / 09621539726</a>
-                  </div>
-                  <div class="gsap-reveal d-block">
+                </div>
+                <div class="gsap-reveal d-block">
                     <span class="d-block contact-info-label">Address</span>
                     <address class="contact-info-val">Head Office:<br> Daet Camarines Norte</address>
                     <address class="contact-info-val">Warehouse Office: <br> Lot 1&2, LakeTown Village, C6 - Taguig City, Metro Manila</address>
@@ -174,14 +173,14 @@
                 </div>
               </div>
 
-          </div>
-          <div class="col-12">
+            </div>
+            <div class="col-12">
 
 
 
-          <div class="row mt-5 justify-content-between">
-            <div class="col-lg-6 mb-5 mb-lg-10">
-              <figure class="dotted-bg gsap-reveal-img ">
+                <div class="row mt-5 justify-content-between">
+                    <div class="col-lg-6 mb-5 mb-lg-10">
+                        <figure class="dotted-bg gsap-reveal-img ">
 
 
 
@@ -216,28 +215,28 @@
 
 
 
-
       </div> <!-- END .unslate_co-site-inner -->
 
       <footer class="unslate_co--footer unslate_co--section">
-        <div class="container">
+          <div class="container">
           <div class="row justify-content-center">
-            <div class="col-md-7">
+              <div class="col-md-7">
 
-              <div class="footer-site-logo"><a href="#"><img src="{{ asset('front/images/companyLogo.png') }}" class="lazyload  img-fluid" alt="Images" /></a></div>
+                  {{-- <div class="footer-site-logo"><a href="#"><img src="{{ asset('front/images/companyLogo.png') }}" class="lazyload  img-fluid" alt="Images" /></a></div> --}}
+                  <div class="footer-site-logo"><a href="https://m.me/106137968490429"><img src="{{ asset('front/images/companyLogo.png') }}" class="lazyload  img-fluid" alt="Images" /></a></div>
 
-              <ul class="footer-site-social">
+                  <ul class="footer-site-social">
                 <li><a href="https://m.me/106137968490429">Facebook</a></li>
                 <li><a href="#">Twitter</a></li>
                 <li><a href="#">Instagram</a></li>
 
-              </ul>
+            </ul>
 
               <p class="site-copyright">
 
 
-                 &copy;
-                <script>
+                  &copy;
+                  <script>
                   document.write(new Date().getFullYear());
                 </script> Mirasol Architects and Engineers, Inc. All rights reserved.
 
@@ -245,7 +244,7 @@
               </p>
 
             </div>
-          </div>
+        </div>
         </div>
       </footer>
 
@@ -256,11 +255,12 @@
     <!-- Loader -->
     <div id="unslate_co--overlayer"></div>
     <div class="site-loader-wrap">
-      <div class="site-loader"></div>
+        <div class="site-loader"></div>
     </div>
 
     <script src="{{ asset('front/js/scripts-dist.js') }}"></script>
     <script src="{{ asset('front/js/main.js') }}"></script>
+
 
   </body>
 
