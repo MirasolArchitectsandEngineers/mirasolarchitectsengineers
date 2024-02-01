@@ -61,7 +61,7 @@
               </ul>
             </div>
             <div class="site-logo pos-absolute">
-              <a href="https://m.me/106137968490429" class="unslate_co--site-logo"> <img src="{{ asset('front/images/companyLogo.png') }}" class="lazyload  img-fluid" alt="Images" /></a>
+              <a href="/" class="unslate_co--site-logo"> <img src="{{ asset('front/images/companyLogo.png') }}" class="lazyload  img-fluid" alt="Images" /></a>
             </div>
             <div  class="col-md-5 text-right text-lg-left">
               <ul class="site-nav-ul js-clone-nav text-left d-none d-lg-inline-block">
@@ -83,16 +83,19 @@
       </nav>
       <!-- END nav -->
 
+
       <div class="cover-v1 jarallax" style="background-image: url('{{ asset('front/images/Balanced-and-symmetrical-kitchen-in-modern-home-explains-the-importance-of-7-principles-of-interior-design-1536x1018.jpg') }}');" id="home-section">
         <div class="container">
-          <div class="row align-items-center">
+            <div class="row align-items-center">
 
-            <div class="col-md-7 mx-auto text-center">
+                <div class="col-md-7 mx-auto text-center">
 
 
 
               <h1 class="heading gsap-reveal-hero">CONTACT US</h1>
-              <h2 style="font-size: 18px;" class="subheading gsap-reveal-hero">HOME-CONTACT US</h2>
+              <h2 style="font-size: 18px;" class="subheading gsap-reveal-hero">
+                {{-- <a class="text-lg btn btn-primary" href="https://m.me/106137968490429">Message me on Facebook</a></h2> --}}
+                <a href="https://m.me/106137968490429" class="btn btn-primary btn-lg " role="button" aria-disabled="true">Click Me</a>
             </div>
 
           </div>
