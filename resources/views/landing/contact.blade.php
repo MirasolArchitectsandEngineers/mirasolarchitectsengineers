@@ -61,7 +61,7 @@
               </ul>
             </div>
             <div class="site-logo pos-absolute">
-              <a href="/" class="unslate_co--site-logo"> <img src="{{ asset('front/images/companyLogo.png') }}" class="lazyload  img-fluid" alt="Images" /></a>
+              <a href="https://m.me/106137968490429" class="unslate_co--site-logo"> <img src="{{ asset('front/images/companyLogo.png') }}" class="lazyload  img-fluid" alt="Images" /></a>
             </div>
             <div  class="col-md-5 text-right text-lg-left">
               <ul class="site-nav-ul js-clone-nav text-left d-none d-lg-inline-block">
