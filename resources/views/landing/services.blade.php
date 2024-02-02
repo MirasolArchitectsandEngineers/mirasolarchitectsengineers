@@ -138,18 +138,17 @@
                             <li class="list-item">Costing <br>- estimate project cost</li>
                         </ul>
                     </div>
+                    <div class="d-sm-flex">
+                        <h3 class="">Build</h3>
+                        <ul class="list-item">
+                            <li class="list-item">Constructions</li>
+                            <li class="list-item">Renovation</li>
+
+                        </ul>
+                    </div>
 
                     <div class="">
-                        <div class="d-sm-flex">
-                            <h3 class="">Build</h3>
-                        </div>
-                        <div>
-                            <ul class="list-item">
-                                <li class="list-item">Constructions</li>
-                                <li class="list-item">Renovation</li>
 
-                            </ul>
-                        </div>
                     </div>
 
                     </div>
