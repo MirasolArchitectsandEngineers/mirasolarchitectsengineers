@@ -127,7 +127,7 @@
               <h3 class="mb-4 heading-h3"><span class="gsap-reveal">Misson:</span></h3>
               <p class="lead gsap-reveal">To be the company who excel in designing and project management.</p>
               <h3 class="mb-4 heading-h3"><span class="gsap-reveal">Vision:</span></h3>
-              <p class="lead gsap-reveal">To be the company who excel in designing and project management.</p>
+              <p class="lead gsap-reveal">To continually deliver excellent, value and innovative project construction solution that will meet the client’s requirements.</p>
 
             </div>
           </div>
