@@ -107,57 +107,71 @@
         </a>
 
       </div>
-<div class="unslate_co--section" id="about-section">
+    <div class="unslate_co--section" id="about-section">
         <div class="col-12">
 
 
 
-          <div class="row mt-5 justify-content-between">
-            <div class="col-lg-6 mb-5 mb-lg-10">
-              <figure class="dotted-bg gsap-reveal-img ">
-                <img src="{{ asset('front/images/architecture-building.png') }}" alt="Image" class="img-fluid">
-              </figure>
-            </div>
+            <div class="row mt-5 justify-content-between">
+                <div class="col-lg-6 mb-5 mb-lg-10">
+                <figure class="dotted-bg gsap-reveal-img ">
+                    <img src="{{ asset('front/images/architecture-building.png') }}" alt="Image" class="img-fluid">
+                </figure>
+                </div>
 
-            <div class="col-lg-5 pr-lg-4">
+                <div class="col-lg-5 pr-lg-4">
 
-                   <div class="feature-v1 gsap-reveal" data-aos="fade-up" data-aos-delay="0">
-                <div class="wrap-icon mb-3">
-                  <img src="{{ asset('front/images/svg/001-options.svg') }}" alt="Image" width="45">
-                </div>
-                <h3>Project Management / Consultant</h3>
-                <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. </p>
-              </div>
+                    <div class="feature-v1 gsap-reveal" data-aos="fade-up" data-aos-delay="0">
+                    <div class="wrap-icon mb-3">
+                        <img src="{{ asset('front/images/svg/001-options.svg') }}" alt="Image" width="45">
+                        <span class="ml-2 d-inline-flex">
+                            <h1>Architectural</h1>
+                        </span>
+                    </div>
+                <div class="d-flex justify-content-between">
+                    <div class="">
+                        <h3 >Design</h3>
+                        <ul class="list-item">
+                            <li class="list-item">Architectural Plan</li>
+                            <li class="list-item">Perspective</li>
+                            <li class="list-item">Proposal</li>
+                            <li class="list-item">Costing <br>- estimate project cost</li>
+                        </ul>
+                    </div>
 
+                    <div class="">
+                        <div class="d-sm-flex">
+                            <h3 class="">Build</h3>
+                        </div>
+                        <div>
+                            <ul class="list-item">
+                                <li class="list-item">Constructions</li>
+                                <li class="list-item">Renovation</li>
 
-              <div class="feature-v1 gsap-reveal" data-aos="fade-up" data-aos-delay="0">
-                <div class="wrap-icon mb-3">
-                  <img src="{{ asset('front/images/svg/001-options.svg') }}" alt="Image" width="45">
+                            </ul>
+                        </div>
+                    </div>
+
+                    </div>
+                    {{-- <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. </p> --}}
                 </div>
-                <h3>Construction</h3>
-                <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. </p>
-              </div>
-             <div class="feature-v1 gsap-reveal" data-aos="fade-up" data-aos-delay="0">
-                <div class="wrap-icon mb-3">
-                  <img src="{{ asset('front/images/svg/001-options.svg') }}" alt="Image" width="45">
+
+                <br><br>
+                <div class="feature-v1 gsap-reveal" data-aos="fade-up" data-aos-delay="0">
+                    <div class="wrap-icon mb-3">
+                        <img src="{{ asset('front/images/svg/001-options.svg') }}" alt="Image" width="45">
+                        <span class="ml-2 d-inline-flex">
+                            <h3>Other Services:</h3>
+                        </span>
+                    </div>
+                    <div class="d-flex justify-content-between">
+                        <ul class="list-item">
+                            <li class="list-item">Structural</li>
+                            <li class="list-item">Electrical</li>
+                            <li class="list-item">Plumbing</li>
+                        </ul>
+                    </div>
                 </div>
-                <h3>Design and Build</h3>
-                <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. </p>
-              </div>
-             <div class="feature-v1 gsap-reveal" data-aos="fade-up" data-aos-delay="0">
-                <div class="wrap-icon mb-3">
-                  <img src="{{ asset('front/images/svg/001-options.svg') }}" alt="Image" width="45">
-                </div>
-                <h3>Land Surveying</h3>
-                <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. </p>
-              </div>
-			  <div class="feature-v1 gsap-reveal" data-aos="fade-up" data-aos-delay="0">
-                <div class="wrap-icon mb-3">
-                  <img src="{{ asset('front/images/svg/001-options.svg') }}" alt="Image" width="45">
-                </div>
-                <h3>Costing</h3>
-                <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. </p>
-              </div>
 
 
 
