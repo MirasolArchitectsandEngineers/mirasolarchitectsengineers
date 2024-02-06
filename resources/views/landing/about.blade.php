@@ -223,7 +223,7 @@
                     <p class="post-meta">Position <span class="small">&bullet;</span> Managing Director</p>
                   </div>
                 </div>
-                <img src="{{ asset('front/images/person_man_1.jpg') }}" class="lazyload" alt="Image" />
+                <img src="{{ asset('front/images/boss.jpg') }}" class="lazyload" alt="Image" />
               </a>
 
 
@@ -232,11 +232,11 @@
               <a href="blog-single.html" class="grid-item blog-item w-100 h-100">
                 <div class="overlay">
                   <div class="this-item-content">
-                    <h3>NAME:Architect</h3>
+                    <h3>NAME: Hazel Mirasol</h3>
                     <p class="post-meta">Position <span class="small">&bullet;</span> none</p>
                   </div>
                 </div>
-                <img src="{{ asset('front/images/person_woman_1.jpg') }}" class="lazyload" alt="Image" />
+                <img src="{{ asset('front/images/mamhazel.jpg') }}" class="lazyload" alt="Image" />
               </a>
             </div>
 
