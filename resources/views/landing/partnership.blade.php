@@ -113,7 +113,7 @@
       <div class="unslate_co--section" id="testimonial-section">
         <div class="container">
           <div class="section-heading-wrap text-center mb-5">
-            <h2 class="heading-h2 text-center divider"><span class="gsap-reveal">My Happy Clients</span></h2>
+            <h2 class="heading-h2 text-center divider"><span class="gsap-reveal">Our Partnerships</span></h2>
             <span class="gsap-reveal"><img src="{{ asset('front/images/divider.png') }}" alt="divider" width="76"></span>
           </div>
         </div>
@@ -122,16 +122,18 @@
           <div>
             <div class="testimonial-v1">
               <div class="testimonial-inner-bg">
-                <span class="quote">&ldquo;</span>
-                <blockquote>
+                {{-- <span class="quote">&ldquo;</span> --}}
+                {{-- <blockquote>
                   Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
-                </blockquote>
+                </blockquote> --}}
+                <img src="{{ asset('front/images/pook mirasol.jpg') }}" style="width:auto;height:500px;" >
               </div>
 
               <div class="testimonial-author-info">
-                <img src="{{ asset('front/images/person_man_1.jpg') }}" alt="Image">
-                <h3>Eric Ingram</h3>
-                <span class="d-block position">Product Designer @facebook</span>
+                    <img src="{{ asset('front/images/person_man_1.jpg') }}" alt="Image">
+
+                    <h3>Pook Mirasol</h3>
+                    <span class="d-block position">Pook Mirasol</span>
               </div>
 
             </div>
@@ -139,10 +141,11 @@
           <div>
             <div class="testimonial-v1">
               <div class="testimonial-inner-bg">
-                <span class="quote">&ldquo;</span>
-                <blockquote>
+                {{-- <span class="quote">&ldquo;</span> --}}
+                {{-- <blockquote>
                   Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
-                </blockquote>
+                </blockquote> --}}
+                <img src="{{ asset('front/images/architecture-building.png') }}" style="width:100%;height:500px;" >
               </div>
 
               <div class="testimonial-author-info">

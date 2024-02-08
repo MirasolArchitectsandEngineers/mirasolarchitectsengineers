@@ -195,7 +195,7 @@
                   <span class="number number-counter" data-number="25">0</span>
 
                 </span>
-                <span class="counter-label">On Going</span>
+                <span class="counter-label">Up Projects</span>
               </div>
             </div>
           </div>
