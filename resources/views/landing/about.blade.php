@@ -208,7 +208,7 @@
       <div class="unslate_co--section" id="journal-section">
         <div class="container">
           <div class="section-heading-wrap text-center mb-5">
-            <h2 class="heading-h2 text-center divider"><span class="gsap-reveal">Our Architecture team</span></h2>
+            <h2 class="heading-h2 text-center divider"><span class="gsap-reveal">Team of Architects</span></h2>
             <span class="gsap-reveal"><img src="{{ asset('front/images/divider.png') }}" alt="divider" width="76"></span>
           </div>
 
