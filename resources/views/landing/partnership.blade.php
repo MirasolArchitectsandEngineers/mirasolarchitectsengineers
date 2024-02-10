@@ -118,15 +118,15 @@
           </div>
         </div>
 
-        <div class="d-flex justify-content-between col-md-7 mx-auto text-center">
-            <div >
+        <div class="">
+            <div class="">
                 <p class="gsap-reveal-hero">
                     <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#partnerCompanies" aria-expanded="false" aria-controls="collapseExample">
                       Partner Companies
                     </button>
                 </p>
                 <div class="collapse" id="partnerCompanies">
-                    <div class="card card-body" style="width: 18rem;">
+                    <div class="card card-body">
                         <ul class="list-group list-group-flush">
                             <li class="list-group-item gsap-reveal-hero">TECH TITANS SOLUTIONS</li>
                             <li class="list-group-item gsap-reveal-hero">EB 25</li>
@@ -150,7 +150,7 @@
                     </button>
                 </p>
                 <div class="collapse" id="supliersVendors">
-                    <div class="card card-body" style="width: 18rem;">
+                    <div class="card card-body">
                         <ul class="list-group list-group-flush">
                             <li class="list-group-item gsap-reveal-hero">TAJIMA</li>
                             <li class="list-group-item gsap-reveal-hero">OFX</li>
@@ -168,7 +168,27 @@
                     </button>
                 </p>
                 <div class="collapse" id="projectWePart">
-                    <div class="card card-body" style="width: 18rem;">
+                    <div class="card card-body">
+                        <ul class="list-group list-group-flush">
+                            <li class="list-group-item gsap-reveal-hero">ARCADIS OFFICE FIT-OUT</li>
+                            <li class="list-group-item gsap-reveal-hero">SUPERGONE OFFICE FIT-OUT</li>
+                            <li class="list-group-item gsap-reveal-hero">ASIAN TERMINAL OFFICE FIT-OUT</li>
+                            <li class="list-group-item gsap-reveal-hero">AMO- TONDOTEL HOUSING PROJECT</li>
+                            <li class="list-group-item gsap-reveal-hero">MEGAWORD- ATTERATION & ADDITION WORKS</li>
+                            <li class="list-group-item gsap-reveal-hero">SMDC- CONDO RENOVATIONS</li>
+                            <li class="list-group-item gsap-reveal-hero">ALVEO- CONDO RENOVATION</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <p class="gsap-reveal-hero">
+                    <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#knownClients" aria-expanded="false" aria-controls="collapseExample">
+                      Known Clients
+                    </button>
+                </p>
+                <div class="collapse" id="knownClients">
+                    <div class="card card-body items-center">
                         <ul class="list-group list-group-flush">
                             <li class="list-group-item gsap-reveal-hero">TECH TITANS SOLUTIONS</li>
                             <li class="list-group-item gsap-reveal-hero">EB 25</li>
