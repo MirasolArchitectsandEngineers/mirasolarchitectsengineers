@@ -68,7 +68,7 @@
 
                 <li><a href="/partnership" class="nav-link">Partnership</a></li>
                 <li><a href="/ourworks" class="nav-link">Our Works</a></li>
-                <li><a href="/contact" class="nav-link">Contact Us</a></li>
+                <li><a href="/contactus" class="nav-link">Contact Us</a></li>
 
               </ul>
 
