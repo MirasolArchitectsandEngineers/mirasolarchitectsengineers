@@ -118,14 +118,82 @@
           </div>
         </div>
 
-        <div style="color:white;" class="owl-carousel testimonial-slider" data-aos="fade-up">
+        <div class="d-flex justify-content-between col-md-7 mx-auto text-center">
+            <div >
+                <p class="gsap-reveal-hero">
+                    <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#partnerCompanies" aria-expanded="false" aria-controls="collapseExample">
+                      Partner Companies
+                    </button>
+                </p>
+                <div class="collapse" id="partnerCompanies">
+                    <div class="card card-body" style="width: 18rem;">
+                        <ul class="list-group list-group-flush">
+                            <li class="list-group-item gsap-reveal-hero">TECH TITANS SOLUTIONS</li>
+                            <li class="list-group-item gsap-reveal-hero">EB 25</li>
+                            <li class="list-group-item gsap-reveal-hero">CACRUZ</li>
+                            <li class="list-group-item gsap-reveal-hero">LEVEL UP</li>
+                            <li class="list-group-item gsap-reveal-hero">REAM</li>
+                            <li class="list-group-item gsap-reveal-hero">HACK BUILDERS</li>
+                            <li class="list-group-item gsap-reveal-hero">B & B</li>
+                            <li class="list-group-item gsap-reveal-hero">ESCCOR</li>
+                            <li class="list-group-item gsap-reveal-hero">ACTIVATE BUILDERS</li>
+                            <li class="list-group-item gsap-reveal-hero">G-VENTURES INC</li>
+                            <li class="list-group-item gsap-reveal-hero">JPDP ARCHITECTURAL</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <p class="gsap-reveal-hero">
+                    <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#supliersVendors" aria-expanded="false" aria-controls="collapseExample">
+                      Suppliers / Vendors
+                    </button>
+                </p>
+                <div class="collapse" id="supliersVendors">
+                    <div class="card card-body" style="width: 18rem;">
+                        <ul class="list-group list-group-flush">
+                            <li class="list-group-item gsap-reveal-hero">TAJIMA</li>
+                            <li class="list-group-item gsap-reveal-hero">OFX</li>
+                            <li class="list-group-item gsap-reveal-hero">LIGHTFLOW</li>
+                            <li class="list-group-item gsap-reveal-hero">CAPACUAN TRADE</li>
+                            <li class="list-group-item gsap-reveal-hero">JOY TAN HARDWARE</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <p class="gsap-reveal-hero">
+                    <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#projectWePart" aria-expanded="false" aria-controls="collapseExample">
+                      Project we are part with
+                    </button>
+                </p>
+                <div class="collapse" id="projectWePart">
+                    <div class="card card-body" style="width: 18rem;">
+                        <ul class="list-group list-group-flush">
+                            <li class="list-group-item gsap-reveal-hero">TECH TITANS SOLUTIONS</li>
+                            <li class="list-group-item gsap-reveal-hero">EB 25</li>
+                            <li class="list-group-item gsap-reveal-hero">CACRUZ</li>
+                            <li class="list-group-item gsap-reveal-hero">LEVEL UP</li>
+                            <li class="list-group-item gsap-reveal-hero">REAM</li>
+                            <li class="list-group-item gsap-reveal-hero">HACK BUILDERS</li>
+                            <li class="list-group-item gsap-reveal-hero">B & B</li>
+                            <li class="list-group-item gsap-reveal-hero">ESCCOR</li>
+                            <li class="list-group-item gsap-reveal-hero">ACTIVATE BUILDERS</li>
+                            <li class="list-group-item gsap-reveal-hero">G-VENTURES INC</li>
+                            <li class="list-group-item gsap-reveal-hero">JPDP ARCHITECTURAL</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {{-- <div style="color:white;" class="owl-carousel testimonial-slider" data-aos="fade-up">
           <div>
             <div class="testimonial-v1">
               <div class="testimonial-inner-bg">
-                {{-- <span class="quote">&ldquo;</span> --}}
-                {{-- <blockquote>
+                <span class="quote">&ldquo;</span>
+                <blockquote>
                   Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
-                </blockquote> --}}
+                </blockquote>
                 <img src="{{ asset('front/images/pook mirasol.jpg') }}" style="width:auto;height:500px;" >
               </div>
 
@@ -141,10 +209,10 @@
           <div>
             <div class="testimonial-v1">
               <div class="testimonial-inner-bg">
-                {{-- <span class="quote">&ldquo;</span> --}}
-                {{-- <blockquote>
+                <span class="quote">&ldquo;</span>
+                <blockquote>
                   Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
-                </blockquote> --}}
+                </blockquote>
                 <img src="{{ asset('front/images/architecture-building.png') }}" style="width:100%;height:500px;" >
               </div>
 
@@ -173,7 +241,7 @@
 
             </div>
           </div>
-        </div>
+        </div> --}}
 
       </div>
       <!-- END testimonial -->
