@@ -118,7 +118,7 @@
           </div>
         </div>
 
-        <div class="">
+        <div class="col-md-12 text-center ">
             <div class="">
                 <p class="gsap-reveal-hero">
                     <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#partnerCompanies" aria-expanded="false" aria-controls="collapseExample">
