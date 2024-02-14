@@ -134,9 +134,9 @@
                             <li class="list-group-item gsap-reveal-hero">LEVEL UP</li>
                             <li class="list-group-item gsap-reveal-hero">REAM</li>
                             <li class="list-group-item gsap-reveal-hero">HACK BUILDERS</li>
-                            <li class="list-group-item gsap-reveal-hero">B & B</li>
+                            <li class="list-group-item gsap-reveal-hero">DB & B</li>
                             <li class="list-group-item gsap-reveal-hero">ESCCOR</li>
-                            <li class="list-group-item gsap-reveal-hero">ACTIVATE BUILDERS</li>
+                            <li class="list-group-item gsap-reveal-hero">ACTUATE BUILDERS</li>
                             <li class="list-group-item gsap-reveal-hero">G-VENTURES INC</li>
                             <li class="list-group-item gsap-reveal-hero">JPDP ARCHITECTURAL</li>
                         </ul>
@@ -171,7 +171,7 @@
                     <div class="card card-body">
                         <ul class="list-group list-group-flush">
                             <li class="list-group-item gsap-reveal-hero">ARCADIS OFFICE FIT-OUT</li>
-                            <li class="list-group-item gsap-reveal-hero">SUPERGONE OFFICE FIT-OUT</li>
+                            <li class="list-group-item gsap-reveal-hero">SUPERGENE OFFICE FIT-OUT</li>
                             <li class="list-group-item gsap-reveal-hero">ASIAN TERMINAL OFFICE FIT-OUT</li>
                             <li class="list-group-item gsap-reveal-hero">AMO- TONDOTEL HOUSING PROJECT</li>
                             <li class="list-group-item gsap-reveal-hero">MEGAWORD- ATTERATION & ADDITION WORKS</li>
@@ -196,9 +196,9 @@
                             <li class="list-group-item gsap-reveal-hero">LEVEL UP</li>
                             <li class="list-group-item gsap-reveal-hero">REAM</li>
                             <li class="list-group-item gsap-reveal-hero">HACK BUILDERS</li>
-                            <li class="list-group-item gsap-reveal-hero">B & B</li>
+                            <li class="list-group-item gsap-reveal-hero">DB & B</li>
                             <li class="list-group-item gsap-reveal-hero">ESCCOR</li>
-                            <li class="list-group-item gsap-reveal-hero">ACTIVATE BUILDERS</li>
+                            <li class="list-group-item gsap-reveal-hero">ACTUATE BUILDERS</li>
                             <li class="list-group-item gsap-reveal-hero">G-VENTURES INC</li>
                             <li class="list-group-item gsap-reveal-hero">JPDP ARCHITECTURAL</li>
                         </ul>
