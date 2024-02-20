@@ -168,6 +168,10 @@
                             <li class="list-item">Structural</li>
                             <li class="list-item">Electrical</li>
                             <li class="list-item">Plumbing</li>
+                            <li class="list-item">Reinstatement / Demolition</li>
+                            <li class="list-item">Mechanical</li>
+                            <li class="list-item">Fire Protection</li>
+                            <li class="list-item">Project Management</li>
                         </ul>
                     </div>
                 </div>
