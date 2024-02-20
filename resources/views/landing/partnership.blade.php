@@ -83,12 +83,12 @@
       </nav>
       <!-- END nav -->
 
-      <div class="cover-v1 jarallax" style="background-image: url('{{ asset('front/images/habitation-bg.jpg') }}');" id="home-section">
+      <div class="cover-v1 jarallax" style="background-image: url('{{ asset('front/images/partnershiplist.jpg') }}');" id="home-section">
       {{-- <div class="cover-v1 jarallax" style="background-image: url('{{ asset('front/images/partnershiplist.jpg') }}');" id="home-section"> --}}
         <div class="container">
           <div class="row align-items-center">
 
-            <div class="col-md-7 mx-auto text-center">
+            <div class="col-md-7 mx-auto text-center bg-primary">
 
 
              <h1 class="heading gsap-reveal-hero ">Partnership</h1>

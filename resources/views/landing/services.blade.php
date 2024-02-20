@@ -83,7 +83,7 @@
       </nav>
       <!-- END nav -->
 
-      <div class="cover-v1 jarallax" style="background-image: url('{{ asset('front/images/appointment-benner.jpg') }}');" id="home-section">
+      <div class="cover-v1 jarallax " style="background-image: url('{{ asset('front/images/services.jpg') }}');" id="home-section">
         <div class="container">
           <div class="row align-items-center">
 
@@ -91,8 +91,8 @@
 
 
 
-              <h1 class="heading gsap-reveal-hero">SERVICES</h1>
-              <h2 style="font-size: 18px;" class="subheading gsap-reveal-hero">HOME-SERVICES</h2>
+              <h1 class="heading gsap-reveal-hero text-primary">SERVICES</h1>
+              <h2 style="font-size: 18px;" class="subheading gsap-reveal-hero text-primary">HOME-SERVICES</h2>
             </div>
 
           </div>

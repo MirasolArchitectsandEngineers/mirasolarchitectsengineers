@@ -84,7 +84,7 @@
       <!-- END nav -->
 
 
-      <div class="cover-v1 jarallax" style="background-image: url('{{ asset('front/images/Balanced-and-symmetrical-kitchen-in-modern-home-explains-the-importance-of-7-principles-of-interior-design-1536x1018.jpg') }}');" id="home-section">
+      <div class="cover-v1 jarallax" style="background-image: url('{{ asset('front/images/contact-usBG.jpg') }}');" id="home-section">
         <div class="container">
             <div class="row align-items-center">
 
