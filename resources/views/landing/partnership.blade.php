@@ -83,7 +83,7 @@
       </nav>
       <!-- END nav -->
 
-      <div class="cover-v1 jarallax" style="background-image: url('{{ asset('front/images/partnershiplist.jpg') }}');" id="home-section">
+      <div class="cover-v1 jarallax" style="background-image: url('{{ asset('front/images/') }}');" id="home-section">
       {{-- <div class="cover-v1 jarallax" style="background-image: url('{{ asset('front/images/partnershiplist.jpg') }}');" id="home-section"> --}}
         <div class="container">
           <div class="row align-items-center">
@@ -181,7 +181,7 @@
                     </div>
                 </div>
             </div>
-            <div>
+            {{-- <div>
                 <p class="gsap-reveal-hero">
                     <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#knownClients" aria-expanded="false" aria-controls="collapseExample">
                       Known Clients
@@ -204,7 +204,7 @@
                         </ul>
                     </div>
                 </div>
-            </div>
+            </div> --}}
         </div>
         {{-- <div style="color:white;" class="owl-carousel testimonial-slider" data-aos="fade-up">
           <div>
