@@ -84,7 +84,7 @@
       <!-- END nav -->
 
       {{-- <div class="cover-v1 jarallax" style="background-image: url('{{ asset('front/images/278049545_144464124751909_5915077704219102873_n.jpg') }}');" id="home-section"> --}}
-      <div class="cover-v1 jarallax" style="background-image: url('{{ asset('front/images/pambuhan2.jpg') }}');" id="home-section">
+      <div class="cover-v1 jarallax" style="background-image: url('{{ asset('front/images/VIBARSKETCH2.jpg') }}');" id="home-section">
         <div class="container">
           <div class="row align-items-center">
 
@@ -140,7 +140,7 @@
 
 
 
- <div  style="background-image: url('{{ asset('front/images/architecture-building.png') }}');" class="unslate_co--section section-counter" id="skills-section">
+ <div  style="background-image: url('{{ asset('front/images/VIBARSKETCH2.jpg') }}');" class="unslate_co--section section-counter" id="skills-section">
         <div class="container">
 
 

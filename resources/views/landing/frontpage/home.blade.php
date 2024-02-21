@@ -181,7 +181,7 @@
 
           <div class="item web packaging col-sm-6 col-md-6 col-lg-4 isotope-mb-2">
 
-                <a href="{{ asset('front/images/fabrication.jpg') }}" class="this-item isotope-item gsap-reveal-img" data-fancybox data-caption="Residential">
+                <a href="{{ asset('front/images/VIBARSKETCH2.jpg') }}" class="this-item isotope-item gsap-reveal-img" data-fancybox data-caption="Residential">
                     <div class="overlay">
                       <span class="wrap-icon icon-photo2"></span>
                       <div class="this-item-content">
@@ -189,7 +189,7 @@
 
                       </div>
                     </div>
-                    <img src="{{ asset('front/images/residential2.jpg') }}" class="lazyload  img-fluid" alt="Images" />
+                    <img src="{{ asset('front/images/VIBARSKETCH2.jpg') }}" class="lazyload  img-fluid" alt="Images" />
                   </a>
 
               </div>
