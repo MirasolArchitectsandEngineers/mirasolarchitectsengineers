@@ -17,7 +17,7 @@ use Illuminate\Support\Facades\Route;
 Route for linking page
 * */
 Route::get('/', function () {
-    return view('welcome');
+    return view('landing.frontpage.home');
 });
 
 Route::get('/about', function() {

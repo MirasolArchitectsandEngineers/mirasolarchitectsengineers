@@ -90,12 +90,9 @@
 
                 <div class="col-md-7 mx-auto text-center">
 
-
-
               <h1 class="heading gsap-reveal-hero">CONTACT US</h1>
               <h2 style="font-size: 18px;" class="subheading gsap-reveal-hero">
-                {{-- <a class="text-lg btn btn-primary" href="https://m.me/106137968490429">Message me on Facebook</a></h2> --}}
-                <a href="https://m.me/106137968490429" class="btn btn-primary btn-lg " role="button" aria-disabled="true">
+                <a href="https://m.me/106137968490429" target="_blank" class="btn btn-primary btn-lg " role="button" aria-disabled="true">
                     Click here
                     <svg width="20px" height="20px" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
                         <path d="M12.5266 12.5324L20 20M19.0117 9.81874L12.8083 12.3731C12.6945 12.4199 12.6377 12.4434 12.5895 12.4783C12.5468 12.5093 12.5093 12.5468 12.4783 12.5895C12.4434 12.6377 12.4199 12.6945 12.3731 12.8083L9.81874 19.0117C9.56565 19.6264 9.43911 19.9337 9.2675 20.0169C9.11884 20.0889 8.94417 20.0829 8.80082 20.0008C8.63535 19.906 8.53025 19.5907 8.32005 18.9601L3.50599 4.51792C3.34314 4.02937 3.26172 3.7851 3.31964 3.62265C3.37005 3.48129 3.48129 3.37005 3.62265 3.31964C3.7851 3.26172 4.02937 3.34314 4.51792 3.50599L18.9601 8.32005C19.5907 8.53025 19.906 8.63535 20.0008 8.80082C20.0829 8.94417 20.0889 9.11884 20.0169 9.2675C19.9337 9.43911 19.6264 9.56565 19.0117 9.81874Z" stroke="#000000" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
@@ -130,58 +127,8 @@
             </div>
 
 
-            <div class="row justify-content-between">
+            @include('shared.contact-us')
 
-                <div class="col-md-6">
-                    <form method="post" class="form-outline-style-v1" id="contactForm">
-                        <div class="form-group row mb-0">
-
-                            <div class="col-lg-6 form-group gsap-reveal">
-                                <label for="name">Name</label>
-                    <input name="name" type="text" class="form-control" id="name">
-                  </div>
-                  <div class="col-lg-6 form-group gsap-reveal">
-                      <label for="email">Email</label>
-                    <input name="email" type="email" class="form-control" id="email">
-                  </div>
-                  <div class="col-lg-12 form-group gsap-reveal">
-                    <label for="message">Write your message...</label>
-                    <textarea name="message" id="message" cols="30" rows="7" class="form-control"></textarea>
-                  </div>
-                </div>
-                <div class="form-group row gsap-reveal">
-                    <div class="col-md-12 d-flex align-items-center">
-                        <input type="submit" class="btn btn-outline-pill btn-custom-light mr-3" value="Send Message">
-                        <span class="submitting"></span>
-                    </div>
-                </div>
-            </form>
-            <div id="form-message-warning" class="mt-4"></div>
-              <div id="form-message-success">
-                Your message was sent, thank you!
-              </div>
-
-            </div>
-
-            <div class="col-md-4">
-                <div class="contact-info-v1">
-                  <div class="gsap-reveal d-block">
-                    <span class="d-block contact-info-label">Email</span>
-                    <a href="#" class="contact-info-val">info.mae22@gmail.com</a>
-                </div>
-                <div class="gsap-reveal d-block">
-                    <span class="d-block contact-info-label">Phone</span>
-                    <a href="#" class="contact-info-val">09157769382 / 09621539726</a>
-                </div>
-                <div class="gsap-reveal d-block">
-                    <span class="d-block contact-info-label">Address</span>
-                    <address class="contact-info-val">Head Office:<br> Daet Camarines Norte</address>
-                    <address class="contact-info-val">Warehouse Office: <br> Lot 1&2, LakeTown Village, C6 - Taguig City, Metro Manila</address>
-                  </div>
-                </div>
-              </div>
-
-            </div>
             <div class="col-12">
 
 
