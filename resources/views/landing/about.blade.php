@@ -252,34 +252,7 @@
                 </div>
                 <img src="{{ asset('front/images/queen3.jpg') }}" class="lazyload" alt="Image" />
               </a>
-
-
             </div>
-            <div class="col-sm-6 col-md-6 col-lg-4 blog-post-entry" data-aos="fade-up" data-aos-delay="100">
-              <a href="blog-single.html" class="grid-item blog-item w-100 h-100">
-                <div class="overlay">
-                  <div class="this-item-content">
-                    <h3>NAME: Winnerson B. Villar</h3>
-                    <p class="post-meta">Position <span class="small">&bullet;</span> none</p>
-                  </div>
-                </div>
-                <img src="{{ asset('front/images/win.jpg') }}" class="lazyload" alt="Image" />
-              </a>
-            </div>
-
-            <div class="col-sm-6 col-md-6 col-lg-4 blog-post-entry" data-aos="fade-up" data-aos-delay="200">
-              <a href="blog-single.html" class="grid-item blog-item w-100 h-100">
-                <div class="overlay">
-                  <div class="this-item-content">
-                    <h3>NAME:Architect</h3>
-                    <p class="post-meta">Position <span class="small">&bullet;</span> none</p>
-                  </div>
-                </div>
-                <img src="{{ asset('front/images/person_woman_3.jpg') }}" class="lazyload" alt="Image" />
-              </a>
-            </div>
-
-
           </div>
 
         </div>
