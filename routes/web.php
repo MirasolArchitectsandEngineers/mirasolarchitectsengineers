@@ -39,11 +39,3 @@ Route::get('/ourworks', function() {
 Route::get('/contactus', function() {
     return view('landing.contact');
 });
-
-/**
- * auth
- */
-
-Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard', function () {
-    return view('dashboard');
-})->name('dashboard');
